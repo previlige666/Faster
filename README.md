@@ -2,6 +2,7 @@
 ## 一、环境配置
 ### 1、升级浏览器
 首先建议升级你的edge浏览器(保证是chromium内核)，可以浏览器访问edge://settings/help查看版本号（目前我的版本是91.0.864.64）
+![edge版本](picture/1.png)
 
 ### 2、安装msedgedriver
 该驱动用于调用edge浏览器，微软官方出品无毒无害。我提供的msedgedriver驱动目前可用于我的版本，建议先用我的版本试试
