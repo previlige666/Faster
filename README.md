@@ -16,7 +16,9 @@
 首次打开，建议先输入学号密码，点击测试按钮
 正常情况下，软件会自动打开edge浏览器，并输入账号密码获取cookies并将其显示到下方的显示框内，5秒后浏览器会自动关闭。
 如果浏览器没有正常打开，很可能是我提供的msedgedriver和你的edge浏览器版本不匹配，
-请访问https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver  下载对应版本的msedgedriver替换C:\Program Files (x86)\Microsoft\Edge\Application内软件即可
+请访问https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver  下载对应版本的msedgedriver替换C:\Program Files (x86)\Microsoft\Edge\Application内软件即可  
+![ms](picture/3.png)
+
 
 ## 三、使用
 如果测试是正常的，那么恭喜你！以后就可以直接使用了，不用再次测试和配置环境了  
