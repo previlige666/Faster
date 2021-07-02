@@ -1,7 +1,7 @@
 # 操作指南
 ## 一、环境配置
 ### 1、升级浏览器
-首先建议升级你的edge浏览器(保证是chromium内核)，可以浏览器访问edge://settings/help查看版本号（目前我的版本是91.0.864.64）
+首先建议升级你的edge浏览器(保证是chromium内核)，可以浏览器访问edge://settings/help查看版本号（目前我的版本是91.0.864.64）  
 ![edge版本](picture/1.PNG)
 
 ### 2、安装msedgedriver
